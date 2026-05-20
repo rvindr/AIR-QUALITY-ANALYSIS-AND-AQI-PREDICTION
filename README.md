@@ -1,5 +1,5 @@
 <div align="center">
-**End-to-end data science project** analyzing India's air quality across 32 states and 296 cities.
+<b>End-to-end data science project</b> analyzing India's air quality across 32 states and 296 cities.
 Covers data cleaning, EDA, statistical analysis, machine learning (regression + classification), and unsupervised clustering — delivering actionable market insights for air purifier product strategy.
 
 <br/>
@@ -7,7 +7,7 @@ Covers data cleaning, EDA, statistical analysis, machine learning (regression + 
 
 ## 🌟 Project Overview
 
-**AirPure Innovations** is a startup targeting India's air purifier market — a country where **14 cities rank among the world's top 20 most polluted urban centres**. This project was built as part of the **CodeBasics Resume Project Challenge #16** (Course: INT557 – Data Science with Python) to help the company's COO, Tony Sharma, make data-driven product and market decisions.
+<b>AirPure Innovations</b> is a startup targeting India's air purifier market — a country where <b>14 cities rank among the world's top 20 most polluted urban centres</b>. This project was built as part of the <b>CodeBasics Resume Project Challenge #16</b> (Course: INT557 – Data Science with Python) to help the company's COO, Tony Sharma, make data-driven product and market decisions.
 
 ### 🧩 Business Problem
 
@@ -51,14 +51,12 @@ OBJECTIVES = [
 
 ## 📂 Datasets
 
-All datasets are sourced from the **Dataful platform** and cover the period **2022–2025**.
+All datasets are sourced from the <b>Dataful platform</b> and cover the period <b>2022–2025</b>.
 
 | Dataset | Records | Description |
 |---------|---------|-------------|
-| 📡 **AQI (Day-wise, State-wise)** | 4,25,971 | Daily AQI values, pollutants, and air quality status for 296 Indian cities across 32 states |
-| 🏥 **Disease Outbreaks (IDSP)** | 26,559 | State/district-wise disease cases and deaths under India's Integrated Disease Surveillance Programme |
-| 🚗 **Vehicle Registration** | 1,99,552 | State-wise vehicle registrations categorized by vehicle class and fuel type (including EVs) |
-| 👥 **Population Projections** | Supplementary | State-wise demographic forecasts broken down by gender (values in thousands) |
-
+| 📡 <b>AQI (Day-wise, State-wise)</b> | 4,25,971 | Daily AQI values, pollutants, and air quality status for 296 Indian cities across 32 states |
+| 🏥 <b>Disease Outbreaks (IDSP)</b> | 26,559 | State/district-wise disease cases and deaths under India's Integrated Disease Surveillance Programme |
+| 🚗 <b>Vehicle Registration</b> | 1,99,552 | State-wise vehicle registrations categorized by vehicle class and fuel type (including EVs) |
 
 </div>
