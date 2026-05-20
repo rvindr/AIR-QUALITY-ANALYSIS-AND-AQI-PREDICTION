@@ -1,4 +1,4 @@
-<div align="center">
+
 <b>End-to-end data science project</b> analyzing India's air quality across 32 states and 296 cities.
 Covers data cleaning, EDA, statistical analysis, machine learning (regression + classification), and unsupervised clustering — delivering actionable market insights for air purifier product strategy.
 
@@ -59,4 +59,4 @@ All datasets are sourced from the <b>Dataful platform</b> and cover the period <
 | 🏥 <b>Disease Outbreaks (IDSP)</b> | 26,559 | State/district-wise disease cases and deaths under India's Integrated Disease Surveillance Programme |
 | 🚗 <b>Vehicle Registration</b> | 1,99,552 | State-wise vehicle registrations categorized by vehicle class and fuel type (including EVs) |
 
-</div>
+
