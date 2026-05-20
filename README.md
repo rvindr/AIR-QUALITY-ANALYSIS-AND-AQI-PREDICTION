@@ -1,6 +1,6 @@
 <div align="center">
-> **End-to-end data science project** analyzing India's air quality across 32 states and 296 cities.
-> Covers data cleaning, EDA, statistical analysis, machine learning (regression + classification), and unsupervised clustering — delivering actionable market insights for air purifier product strategy.
+**End-to-end data science project** analyzing India's air quality across 32 states and 296 cities.
+Covers data cleaning, EDA, statistical analysis, machine learning (regression + classification), and unsupervised clustering — delivering actionable market insights for air purifier product strategy.
 
 <br/>
 
